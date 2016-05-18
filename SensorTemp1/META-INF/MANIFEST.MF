@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: SensorTemp1
-Bundle-SymbolicName: SensorTemp1
-Bundle-Version: 1.0.0.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Service-Component: OSGI-INF/component.xml
-Import-Package: services
